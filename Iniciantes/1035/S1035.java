@@ -22,19 +22,16 @@ public class S1035
                 {
                     if (A%2 == 0) 
                     {
+                        System.out.println("Valores aceitos");
                         aceito = true;
                     }
                 }
             }
         }
 
-        if (aceito) 
+        if (!aceito) 
         {
             System.out.println("Valores nao aceitos");
-        }
-        else
-        {
-            System.out.println("Valores aceitos");
         }
     }
 }
