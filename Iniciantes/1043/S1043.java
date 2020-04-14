@@ -14,8 +14,7 @@ public class S1043
 
         if (A < (B + C) && B < (A + C) && C < (A + B) ) 
         {
-            double perimetro = A + B + C;
-            System.out.format("Perimetro = %.1f%n", perimetro);
+            System.out.format("Perimetro = %.1f%n", (A + B + C));
         } 
         else 
         {
