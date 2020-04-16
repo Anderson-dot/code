@@ -12,7 +12,7 @@ public class S1050
                 break;
             case 71: System.out.println("Salvador");
                 break;
-            case 11: System.out.println("São Paulo");
+            case 11: System.out.println("Sao Paulo");
                 break;
             case 21: System.out.println("Rio de Janeiro");
                 break;
@@ -27,6 +27,7 @@ public class S1050
             default: System.out.println("DDD nao cadastrado");
                 break;
         }
+
         scanner.close();
     }
 }
