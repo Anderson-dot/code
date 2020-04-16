@@ -10,7 +10,7 @@ public class S1040
             n1 = (scanner.nextDouble() * 2) / 10,
             n2 = (scanner.nextDouble() * 3) / 10,
             n3 = (scanner.nextDouble() * 4) / 10,
-            n4 = (scanner.nextDouble() * 1) / 10,
+            n4 = scanner.nextDouble() / 10,
             media = n1 + n2 + n3 + n4;
 
         if (media * 10 - Math.floor(media * 10) > 0.5001) //da 5% aekkKKkk
@@ -22,7 +22,7 @@ public class S1040
             media = Math.floor(media * 10) / 10;
         }
 
-        System.out.printf("Media: %.1f%n", media);
+        System.out.format("Media: %.1f%n", media);
 
         if (media < 5.0) 
         {
@@ -31,15 +31,15 @@ public class S1040
 
         if (media >= 7.0) 
         {
-            System.out.printf("Aluno aprovado.%n");
+            System.out.println("Aluno aprovado.");
         }
         else if (media >= 5.0) 
         {
-            System.out.printf("Aluno em exame.%n");
+            System.out.println("Aluno em exame.");
             double nExame = scanner.nextDouble();
             scanner.close();
 
-            System.out.printf("Nota do exame: %.1f%n", nExame);
+            System.out.format("Nota do exame: %.1f%n", nExame);
             media = (media + nExame) / 2;
 
             if (media >= 5) 
@@ -51,7 +51,7 @@ public class S1040
                 System.out.println("Aluno reprovado.");
             }
 
-            System.out.printf("Media final: %.1f%n",media);
+            System.out.format("Media final: %.1f%n", media);
         }
     }
 }
