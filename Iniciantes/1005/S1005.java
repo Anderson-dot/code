@@ -8,7 +8,7 @@ public class S1005
         Scanner scanner = new Scanner(System.in);
 
         double 
-            A = scanner.nextDouble(),
+            A = scanner.nextDouble(), 
             B = scanner.nextDouble();
         scanner.close();
 
