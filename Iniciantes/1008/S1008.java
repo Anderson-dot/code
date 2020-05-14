@@ -6,7 +6,7 @@ public class S1008
     {
         Scanner scanner = new Scanner(System.in);
 
-        int funcionarios = scanner.nextInt(),
+        int funcionarios = scanner.nextInt(), 
             horasTrabalhadas = scanner.nextInt();
 
         double salario = scanner.nextDouble();
