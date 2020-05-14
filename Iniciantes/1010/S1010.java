@@ -6,7 +6,7 @@ public class S1010
     {
         Scanner scanner = new Scanner(System.in);
 
-        scanner.nextInt(); //cod não usado
+        scanner.nextInt(); //cod não usado 
         int valor1 = scanner.nextInt();
         double preco1 = scanner.nextDouble();
 
