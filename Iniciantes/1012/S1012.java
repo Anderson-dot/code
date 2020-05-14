@@ -12,7 +12,7 @@ public class S1012
             C = scanner.nextDouble();
         scanner.close();
 
-        // a) a área do triângulo retângulo que tem A por base e C por altura.
+        // a) a área do triângulo retângulo que tem A por base e C por altura. 
         double areaTriangulo = (A * C) / 2;
         // b) a área do círculo de raio C. (pi = 3.14159)
         double areaCirculo = Math.pow(C, 2) * 3.14159;
