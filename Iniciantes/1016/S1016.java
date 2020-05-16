@@ -6,7 +6,7 @@ public class S1016
     {
         Scanner scanner = new Scanner(System.in);
 
-        int x = scanner.nextInt();
+        int x = scanner.nextInt(); 
         scanner.close();
 
         x *= 2;
