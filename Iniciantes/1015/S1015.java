@@ -7,7 +7,7 @@ public class S1015
         Scanner scanner = new Scanner(System.in);
 
         double
-            x1 = scanner.nextDouble(),
+            x1 = scanner.nextDouble(), 
             y1 = scanner.nextDouble(),
             x2 = scanner.nextDouble(),
             y2 = scanner.nextDouble();
