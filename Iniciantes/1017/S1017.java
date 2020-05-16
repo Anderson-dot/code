@@ -6,7 +6,7 @@ public class S1017
     {
         Scanner scanner = new Scanner(System.in);
 
-        int tempo = scanner.nextInt(),
+        int tempo = scanner.nextInt(), 
             velocidade = scanner.nextInt();
         scanner.close();
 
