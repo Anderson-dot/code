@@ -6,7 +6,7 @@ public class S1001
     {
         Scanner scanner = new Scanner(System.in);
         
-        int a = scanner.nextInt(),
+        int a = scanner.nextInt(), 
             b = scanner.nextInt();
         scanner.close();
         

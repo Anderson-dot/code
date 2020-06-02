@@ -8,11 +8,11 @@ public class S1002
         Scanner scanner = new Scanner(System.in);
         
         double 
-            n = 3.14159,
+            N = 3.14159,
             raio = scanner.nextDouble();
         scanner.close();
         
-        double area = (Math.pow(raio, 2) * n);
+        double area = (Math.pow(raio, 2) * N);
         DecimalFormat decimalFormat = new DecimalFormat("#.0000");
         
         System.out.println("A=" + decimalFormat.format(area));

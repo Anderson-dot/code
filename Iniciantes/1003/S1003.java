@@ -2,10 +2,12 @@ import java.util.Scanner;
 
 public class S1003
 {
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         Scanner scanner = new Scanner(System.in);
 
-        int A = scanner.nextInt(), B = scanner.nextInt();
+        int A = scanner.nextInt(), 
+            B = scanner.nextInt();
         scanner.close();
 
         int SOMA = A + B;

@@ -6,7 +6,7 @@ public class S1011
     {
         Scanner scanner = new Scanner(System.in);
 
-        double raio = scanner.nextDouble();
+        double raio = scanner.nextDouble(); 
         scanner.close();
 
         double volume = ((4.0/3.0) * 3.14159 * Math.pow(raio, 3));

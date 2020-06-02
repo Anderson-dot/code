@@ -6,7 +6,7 @@ public class S1009
     {
         Scanner scanner = new Scanner(System.in);
 
-        scanner.nextLine(); //Não usa o nome
+        scanner.nextLine(); //Não usa o nome 
         double 
             salarioFixo = scanner.nextDouble(),
             vendasMes = scanner.nextDouble();

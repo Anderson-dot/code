@@ -10,10 +10,9 @@ public class S1006
             A = (scanner.nextDouble() * 2.0),
             B = (scanner.nextDouble() * 3.0),
             C = (scanner.nextDouble() * 5.0);
-
-        double media = (A + B + C) / 10;
-
-        System.out.format("MEDIA = %.1f%n", media);
         scanner.close();
+        
+        double media = (A + B + C) / 10;
+        System.out.format("MEDIA = %.1f%n", media);
     }    
 }

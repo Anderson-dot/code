@@ -6,10 +6,10 @@ public class S1017
     {
         Scanner scanner = new Scanner(System.in);
 
-        int tempo = scanner.nextInt(),
+        int tempo = scanner.nextInt(), 
             velocidade = scanner.nextInt();
         scanner.close();
 
-        System.out.format("%.3f", ((tempo * velocidade) / 12.0));
+        System.out.format("%.3f%n", ((tempo * velocidade) / 12.0));
     }
 }
