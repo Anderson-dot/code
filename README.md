@@ -27,10 +27,10 @@
 * [Como começar](#Como-começar)
 * [Como resolver um problema](#Como-resolver-um-problema)
 * [Submetendo sua solução](#Submetendo-sua-solução)
-    * [Sobre erros](##Sobre-erros)
+    * [Sobre erros](#Sobre-erros)
 * [Tecnologias utilizadas](#Tecnologias-utilizadas)
 * [Problemas](#Problemas)
-    * [Iniciantes](##Iniciantes)
+    * [Iniciantes](#Iniciantes)
 
 # Sobre o Beecrowd
 O [Beecrowd Online Judge](https://www.beecrowd.com.br/judge/pt) é uma plataforma de julgamento de programação que oferece uma ampla variedade de problemas para serem resolvidos. Seu objetivo principal é ajudar programadores a praticar e aprimorar suas habilidades de programação por meio da resolução de desafios.
