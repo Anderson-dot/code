@@ -5,7 +5,7 @@
 <p align="center">
     <img alt="bem vindo" src="https://img.shields.io/badge/Iniciante-Bem--vindo(a)-57007F?style=flat&labelColor=white">
     <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&labelColor=white&color=57007F&logo=red-hat&logoColor=57007F">
-    <img alt="c" src="https://img.shields.io/badge/C-ED8B00?style=flat&labelColor=white&color=57007F&logo=c&logoColor=57007F">
+    <img alt="c++" src="https://img.shields.io/badge/C++-ED8B00?style=flat&labelColor=white&color=57007F&logo=cplusplus&logoColor=57007F">
     <img alt="php" src="https://img.shields.io/badge/PHP-ED8B00?style=flat&labelColor=white&color=57007F&logo=php&logoColor=57007F">
     <img alt="python" src="https://img.shields.io/badge/Python-ED8B00?style=flat&labelColor=white&color=57007F&logo=python&logoColor=57007F">
     <img alt="sql" src="https://img.shields.io/badge/PostgreSQL-ED8B00?style=flat&labelColor=white&color=57007F&logo=PostgreSQL&logoColor=57007F">
@@ -37,7 +37,7 @@ O [Beecrowd Online Judge](https://www.beecrowd.com.br/judge/pt) é uma plataform
 
 A plataforma conta com milhares de problemas, organizados em diversas categorias, como Iniciantes, Strings, Matemática, Estruturas de Dados, entre outras. Cada problema é atribuído a um nível de dificuldade, o que permite aos usuários escolher desafios adequados ao seu conhecimento e experiência.
 
-Uma característica importante do Beecrowd é que ele suporta uma ampla gama de linguagens de programação, desde as mais populares, como C++, Java, Python e JavaScript, até linguagens menos conhecidas. Isso permite que os usuários pratiquem em sua linguagem preferida ou explorem novas linguagens durante o processo de resolução de problemas.
+Uma característica importante do Beecrowd é que ele suporta uma ampla gama de linguagens de programação, desde as mais populares, como C, C++, Java, Python e JavaScript, até linguagens menos conhecidas. Isso permite que os usuários pratiquem em sua linguagem preferida ou explorem novas linguagens durante o processo de resolução de problemas.
 
 Ao resolver um problema no Beecrowd, os usuários podem submeter sua solução e receber um feedback imediato sobre sua correção. A plataforma testa a solução do usuário em vários casos de teste para verificar se ela produz os resultados esperados. Isso permite que os usuários identifiquem erros em seu código e aprimorem suas soluções até que sejam corretas e eficientes.
 
@@ -120,7 +120,7 @@ Lembre-se de que o processo de envio e feedback faz parte do aprendizado e do ap
 Ao seguir essas etapas ao enviar sua solução no Beecrowd, você poderá ter uma experiência mais eficiente e valiosa de resolução de problemas, além de aprimorar suas habilidades de programação.
 
 ## Sobre erros
-Durante o processo de resolução de problemas no Beecrowd, é comum que sua solução não seja aceita logo na primeira tentativa. Isso faz parte do processo de aprendizado e aprimoramento das habilidades de programação. No entanto, é importante entender os motivos pelos quais seu código pode não estar funcionando corretamente. [Nesse link](https://www.beecrowd.com.br/judge/pt/problems/answers) você encontra os motivos mais comuns do porquê seu código não esta sendo aceito na plataforma.
+Durante o processo de resolução de problemas no Beecrowd, é comum que sua solução não seja aceita logo na primeira tentativa. Isso faz parte do processo de aprendizado e aprimoramento das habilidades de programação. No entanto, é importante entender os motivos pelos quais seu código pode não estar funcionando corretamente. [Nesse link](https://www.beecrowd.com.br/judge/pt/answers) você encontra os motivos mais comuns do porquê seu código não esta sendo aceito na plataforma.
 
 # Tecnologias utilizadas
 No contexto deste repositório, as tecnologias utilizadas para resolver os problemas do Beecrowd são as seguintes:
@@ -145,6 +145,6 @@ A IDE utilizada para resolver os problemas do Beecrowd neste repositório foi o 
 Os problemas do Beecrowd são divididos em várias categorias, incluindo iniciantes, ad-hoc, strings, estruturas e bibliotecas, matemática, paradigmas, grafos, geometria computacional e SQL. Cada categoria contém vários problemas que podem ser resolvidos em uma ou mais linguagens de programação.
 
 ## Iniciantes
-* [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000): Hello World! → [Java](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1000/S1000.java) | [C](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1000/S1000.c) | [PHP](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1000/S1000.php) | [Python](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1000/S1000.py)
+* [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000): Hello World! → [Java](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1000/S1000.java) | [C++](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1000/S1000.c) | [PHP](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1000/S1000.php) | [Python](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1000/S1000.py)
 
 ---
