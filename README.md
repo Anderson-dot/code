@@ -149,4 +149,6 @@ Os problemas do Beecrowd são divididos em várias categorias, incluindo inician
 
 * [1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001): Extremamente Básico → [Java](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1000/S1000.java) | [C++](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1000/S1000.cpp) | [PHP](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1000/S1000.php) | [Python](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1000/S1000.py)
 
+* [1002](https://www.beecrowd.com.br/judge/pt/problems/view/1002): Área do Círculo → [Java](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1000/S1000.java) | [C++](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1000/S1000.cpp) | [PHP](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1000/S1000.php) | [Python](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1000/S1000.py)
+
 ---
