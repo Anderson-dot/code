@@ -12,10 +12,10 @@
     <a href="https://github.com/anderdot/uri-judge/stargazers">
     <img alt="estrelas" src="https://img.shields.io/github/stars/anderdot/uri-judge?style=flat&labelColor=white&color=57007F&logo=github&logoColor=57007F&label=Estrelas">
     </a>
-    <a href="https://github.com/anderdot/uri-judge/commits/master">
+    <a href="https://github.com/anderdot/uri-judge/commits/main">
     <img alt="commits" src="https://badgen.net/github/commits/anderdot/uri-judge/?style=flat&labelColor=f8f8f8&color=57007F&logo=github&logoColor=000&label=Commits">
     </a>
-    <a href="https://github.com/anderdot/uri-judge/commits/master">
+    <a href="https://github.com/anderdot/uri-judge/commits/main">
     <img alt="last commit" src="https://img.shields.io/github/last-commit/anderdot/uri-judge?style=flat&labelColor=white&color=57007F&logo=github&logoColor=57007F&label=Último Commit">
     </a>
     <!-- <img alt="top" src="https://img.shields.io/github/languages/top/anderdot/uri-judge?style=flat&labelColor=white&color=red&logo=java&logoColor=red"> -->
