@@ -153,4 +153,6 @@ Os problemas do Beecrowd são divididos em várias categorias, incluindo inician
 
 * [1003](https://www.beecrowd.com.br/judge/pt/problems/view/1003): Soma Simples → [Java](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1003/S1003.java) | [C++](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1003/S1003.cpp) | [PHP](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1003/S1003.php) | [Python](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1003/S1003.py)
 
+* [1004](https://www.beecrowd.com.br/judge/pt/problems/view/1004): Produto Simples → [Java](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1004/S1004.java) | [C++](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1004/S1004.cpp) | [PHP](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1004/S1004.php) | [Python](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1004/S1004.py)
+
 ---
