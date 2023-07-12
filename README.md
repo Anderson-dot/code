@@ -155,4 +155,6 @@ Os problemas do Beecrowd são divididos em várias categorias, incluindo inician
 
 * [1004](https://www.beecrowd.com.br/judge/pt/problems/view/1004): Produto Simples → [Java](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1004/S1004.java) | [C++](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1004/S1004.cpp) | [PHP](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1004/S1004.php) | [Python](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1004/S1004.py)
 
+* [1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005): Média 1 → [Java](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1005/S1005.java) | [C++](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1005/S1005.cpp) | [PHP](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1005/S1005.php) | [Python](https://github.com/anderdot/uri-judge/blob/master/Iniciantes/1005/S1005.py)
+
 ---
